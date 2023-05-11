@@ -43,7 +43,8 @@ The output of this script is this file: doginpaintings.csv
 <p>This file was the dataset used to create visualizations. It was cleaned with a combination of OpenRefine and Microsoft Excel. </p>
 
 <h3><b>Visualization</b></h3>
-Visit ...... to view findings and visualizations.
+
+Visit https://sites.google.com/view/wiki-project-dogs-in-paintings/analysis to view findings and visualizations.
 
 <h3><b>Conclusion</b></h3>
 
