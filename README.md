@@ -39,8 +39,8 @@ This file includes the script to write the data recieved from wikidata's endpoin
 This script was created to transfrom the json file I created previously to a CSV file. 
 The output of this script is this file: doginpaintings.csv
 
-<b>Step V:</b> wikidata_clean_doginpaintings.csv
-This file was the dataset used to create visualizations. It was cleaned with a combination of OpenRefine and Microsoft Excel. 
+<b>Step V:</b> wikidata_clean_doginpaintings.csv 
+<p>This file was the dataset used to create visualizations. It was cleaned with a combination of OpenRefine and Microsoft Excel. </p>
 
 <h3><b>Visualization</b></h3>
 Visit ...... to view findings and visualizations.
